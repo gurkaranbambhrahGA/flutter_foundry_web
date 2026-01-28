@@ -95420,7 +95420,7 @@ qE(a){return B.b.A(A.b(["en"],t.s),a.gdK())},
 pa(a){return!1}}
 A.OW.prototype={}
 A.aPc.prototype={
-$1(a){return!1},
+$1(a){return a.b==="stg"},
 $S:590}
 A.aPd.prototype={
 $0(){return B.qx},
