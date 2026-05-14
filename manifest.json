@@ -1,6 +1,6 @@
 {
-    "name": "foundry_flutter_youth",
-    "short_name": "foundry_flutter_youth",
+    "name": "foundry_youth_flutter",
+    "short_name": "foundry_youth_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
